@@ -4,19 +4,19 @@ const CONTACT_DETAILS = [
   {
     icon: Mail,
     label: "Email",
-    value: "depurimanoj019@gmail.com",
-    href: "mailto:depurimanoj019@gmail.com",
+    value: "manojdepuri3@gmail.com",
+    href: "mailto:manojdepuri3@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+1 (216) 256-3059",
-    href: "tel:+12162563059",
+    value: "+1 (786) 496-3465",
+    href: "tel:+17864963465",
   },
   {
     icon: MapPin,
     label: "Location",
-    value: "Cleveland, OH",
+    value: "USA",
     href: undefined,
   },
 ];
@@ -52,17 +52,17 @@ function BehanceMark() {
 const SOCIAL_LINKS = [
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/manoj-depuri/",
+    //href: "https://www.linkedin.com/in/manoj-depuri/",
     Mark: LinkedinMark,
   },
   {
     label: "Behance",
-    href: "https://www.behance.net/manojdepuri",
+    //href: "https://www.behance.net/manojdepuri",
     Mark: BehanceMark,
   },
   {
     label: "GitHub",
-    href: "https://github.com/depurimanoj",
+    //href: "https://github.com/depurimanoj",
     Mark: GithubMark,
   },
 ];
