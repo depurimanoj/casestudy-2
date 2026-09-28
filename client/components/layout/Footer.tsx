@@ -10,10 +10,10 @@ export default function Footer() {
           Get In Touch
         </h2>
         <a
-          href="mailto:depurimanoj019@gmail.com"
+          href="mailto:manojdepuri3@gmail.com"
           className="font-display text-lg font-bold underline decoration-1 underline-offset-4 sm:text-xl"
         >
-          depurimanoj019@gmail.com
+          manojdepuri3@gmail.com
         </a>
         <button
           type="button"
