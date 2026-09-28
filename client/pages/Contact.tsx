@@ -52,17 +52,17 @@ function BehanceMark() {
 const SOCIAL_LINKS = [
   {
     label: "LinkedIn",
-    //href: "https://www.linkedin.com/in/manoj-depuri/",
+    href: "https://www.linkedin.com/in/manoj-depuri/",
     Mark: LinkedinMark,
   },
   {
     label: "Behance",
-    //href: "https://www.behance.net/manojdepuri",
+    href: "https://www.behance.net/manojdepuri",
     Mark: BehanceMark,
   },
   {
     label: "GitHub",
-    //href: "https://github.com/depurimanoj",
+    href: "https://github.com/depurimanoj",
     Mark: GithubMark,
   },
 ];
